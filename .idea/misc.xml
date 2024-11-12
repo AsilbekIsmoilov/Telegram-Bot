@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (django)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (prayertime_bot)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (telegram_bot)" project-jdk-type="Python SDK" />
 </project>
